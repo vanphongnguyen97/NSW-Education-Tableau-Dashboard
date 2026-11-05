@@ -23,12 +23,13 @@ An exploratory visual analysis of **all 2,210 NSW government schools** using Tab
 ├── NSW_Schools_Visualisation.twbx  
 ├── data/
 │   └── NSW government school locations and student enrolment numbers.csv
-├── images/                         
+├── images/
+│   └── NSW Government Schools Analysis Dashboard.png                     
 │   ├── Average Student Enrolment by Socioeconomic Band and Remoteness.png
 │   ├── Average Student Enrolment by Socioeconomic Advantage (ICSEA) Band.png
 │   ├── Distribution of NSW Public Schools by School Type.png
 │   ├── Distribution of Student Enrolments by School Type.png
-│   └── Geographic Distribution of NSW Public Schools.png 
+│   └── Geographic Distribution of NSW Public Schools.png
 └── README.md
 ```
 
