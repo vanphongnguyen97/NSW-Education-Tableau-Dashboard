@@ -2,9 +2,6 @@
 
 An exploratory visual analysis of **all 2,210 NSW government schools** using Tableau. It examines where schools are located, how student enrolments are distributed, how school types compare, and how socioeconomic advantage (ICSEA) and remoteness relate to school size.
 
-> Individual assignment for **BUSA8090 – Data and Visualisation for Business**, Macquarie University (Macquarie Business School), Session 1, 2026.
-
-🔗 **Interactive version:** [View on Tableau Public](https://public.tableau.com/app/profile/<your-profile>) *(add your link)*
 
 ---
 
@@ -101,5 +98,4 @@ NSW Department of Education, *NSW Government school locations and student enrolm
 ## 👤 Author
 
 **Van Phong Nguyen**
-Master's student, Macquarie University
 📧 phongnguyenvan97dn@gmail.com
